@@ -4,6 +4,10 @@
 // import pepita.*
 // import comidas.*
 import masAves.*
+import pepita.*
+import comidas.*
+
+
 
 object roque {
 	method tuPupiloEs(ave) { } // implementar

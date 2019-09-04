@@ -4,6 +4,16 @@
 // import pepita.*
 // import comidas.*
 
+import pepita.*
+import comidas.*
+
 object roque {
-	method entrenar() { }  // implementar
-}
+	var property pupila = pepita
+	method entrenar() {
+		pupila.volar(10)
+		pupila.comer(alpiste, 300)
+		pupila.volar(5)
+		pupila.haceLoQueQuieras()
+		}
+		
+		}
